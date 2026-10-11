@@ -1,0 +1,35 @@
+[theme]
+base = "light"
+primaryColor = "#315EFB"
+backgroundColor = "#F7F8FA"
+secondaryBackgroundColor = "#F2F4F7"
+textColor = "#202733"
+borderColor = "#E4E7EC"
+dataframeBorderColor = "#E4E7EC"
+dataframeHeaderBackgroundColor = "#F9FAFB"
+showWidgetBorder = true
+linkColor = "#315EFB"
+font = "system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+headingFont = "system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+baseFontSize = 14
+baseRadius = "7px"
+buttonRadius = "6px"
+headingFontSizes = ["27px", "20px", "17px", "15px", "14px", "14px"]
+headingFontWeights = [650, 600, 600, 600, 600, 600]
+metricValueFontSize = "22px"
+metricValueFontWeight = 600
+greenColor = "#278451"
+greenTextColor = "#278451"
+orangeColor = "#B7791F"
+orangeTextColor = "#B7791F"
+redColor = "#C43D3D"
+redTextColor = "#C43D3D"
+blueColor = "#315EFB"
+blueTextColor = "#315EFB"
+grayTextColor = "#667085"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
